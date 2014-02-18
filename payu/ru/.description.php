@@ -3,7 +3,7 @@ global $MESS;
 $MESS["PEYU_MERCHANT"] = "Идентификатор мерчанта";
 $MESS["PEYU_SECURE_KEY"] = "Секретный ключ";
 $MESS["PEYU_LU_URL"] = "Ссылка перехода на страницу платежной системы";
-$MESS["PEYU_DESC_LU_URL"] = "По умолчанию : https://secure.payu.ua/order/lu.php";
+$MESS["PEYU_DESC_LU_URL"] = "По умолчанию : https://secure.payu.ru/order/lu.php";
 $MESS["PEYU_PRICE_CURRENCY"] = "Валюта платежа";
 $MESS["PEYU_DESC_PRICE_CURRENCY"] = "<b style='color=#aeaeae;'>Внимание!</b> Это значение должно соответствовать валюте вашего мерчанта";
 $MESS["PEYU_DEBUG_MODE"] = "Включить режим отладки";
