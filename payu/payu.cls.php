@@ -1,7 +1,7 @@
 <?php
 class PayU
 {
-	var $luUrl = "https://secure.payu.ua/order/lu.php", 
+	var $luUrl = "https://secure.payu.ru/order/lu.php", 
 		$button = "<input type='submit'>",
 		$debug = 0,
 		$showinputs = "hidden",
