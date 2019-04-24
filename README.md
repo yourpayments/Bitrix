@@ -1,4 +1,3 @@
-(For PayU Ukraine and Russian ONLY)
 -------
 
 Модуль PayU для 1C Bitrix до 14.х версии. Для версии от 14.х и выше модуль есть в маркетплейсе.
