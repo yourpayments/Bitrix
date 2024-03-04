@@ -1,12 +1,14 @@
 -------
-
-Модуль PayU для 1C Bitrix до 14.х версии. Для версии от 14.х и выше модуль есть в маркетплейсе.
-=====
+# «Твои платежи», модуль для 1C Bitrix до 14.х версии. Для версии от 14.х и выше модуль есть в маркетплейсе.
+ 
+![](https://repository-images.githubusercontent.com/638835276/ff494b04-d65b-4843-8759-e85c689a7e80)
+ 
+[НКО «Твои Платежи»](https://YPMN.ru/ "Платёжная система для сайтов, платформ и приложений") - платёжная система для сайтов, платформ, игр и приложений.
 
 Данный модуль подходит для версий Малый бизнес, Бизнес и Бизнес Веб-кластер.
---
+-------
 
-Данный модуль также есть на [маркетплейсе битрикса][bitrixMark].
+Данный модуль также есть на [маркетплейсе битрикса](https://marketplace.1c-bitrix.ru/solutions/payu.payment2/).
 Установка проста и бесплатна.
 
 
@@ -35,5 +37,4 @@
 
 В настройках вашего мерчанта на PayU необходимо указать ссылку возврата(IPN) информации о статусе платежа на страницу `http://yoursite.com/bitrix/tools/payu_result.php`
 
-[bitrixMark]: http://marketplace.1c-bitrix.ru/solutions/payu.payment/
-[1]: https://raw.github.com/PayUUA/Bitrix/master/screenshot.png
+[1]: https://raw.github.com/yourpayments/Bitrix/master/screenshot.png

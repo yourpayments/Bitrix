@@ -3,7 +3,7 @@ include(GetLangFileName(dirname(__FILE__)."/", "/.description.php"));
 
 
 $psTitle = "PayU";
-$psDescription = "<a href=\"http://payu.ru\" target=\"_blank\">http://payu.ru</a>";
+$psDescription = "<a href=\"http://ypmn.ru\" target=\"_blank\">http://ypmn.ru</a>";
 
 $array = array(
 					'payu_merchant',
